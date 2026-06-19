@@ -13,8 +13,8 @@ using vi = vector<int>;
 using pii = pair<int,int>;
  
 const int INF = 1e18;
-const int MOD = 1e9 + 7;
-// const int MOD = 998244353;
+//const int MOD = 1e9 + 7;
+const int MOD = 998244353;
  
 void solve() {
     int n ;
