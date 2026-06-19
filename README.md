@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [greedy](#greedy) (2)
+- [brute force](#brute-force) (1)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 
 ---
 
@@ -25,11 +26,18 @@
 |---|---------|------------|----------|
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
 
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+| 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
 ### implementation
@@ -43,6 +51,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 
 ---
 
