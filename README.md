@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 7 |
+| 7 | 7 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (1)
-- [math](#math) (2)
+- [math](#math) (3)
 - [sortings](#sortings) (2)
 
 ---
@@ -39,6 +39,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1174A | [Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/1174/A%20-%20Ehab%20Fails%20to%20Be%20Thanos/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 
 ### greedy
 
@@ -61,6 +62,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 
 ### sortings
