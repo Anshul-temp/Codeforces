@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 7 |
+| 10 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (3)
 - [sortings](#sortings) (3)
 
@@ -32,6 +32,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 
 ### constructive algorithms
@@ -57,6 +58,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
 
 ### math
