@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 8 |
+| 14 | 10 |
 
 ---
 
@@ -14,10 +14,12 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
-- [constructive algorithms](#constructive-algorithms) (2)
-- [greedy](#greedy) (7)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [dp](#dp) (1)
+- [greedy](#greedy) (8)
 - [implementation](#implementation) (3)
 - [math](#math) (4)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (1)
 
@@ -43,6 +45,13 @@
 |---|---------|------------|----------|
 | 1174A | [Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/1174/A%20-%20Ehab%20Fails%20to%20Be%20Thanos/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
+| 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 
 ### greedy
 
@@ -53,6 +62,7 @@
 | 1174A | [Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/1174/A%20-%20Ehab%20Fails%20to%20Be%20Thanos/solution.cpp) |
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
+| 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
@@ -72,6 +82,12 @@
 | 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2149/A%20-%20Be%20Positive/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 8](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 
 ### sortings
 
