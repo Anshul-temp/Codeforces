@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 10 |
+| 16 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
@@ -30,6 +31,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Anshul-temp/Codeforces/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 
 ### brute force
 
